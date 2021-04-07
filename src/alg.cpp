@@ -34,7 +34,7 @@ int countPairs2(int *arr, int len, int value) {
       }
     }
   }
-  return count; 
+  return count;
 }
 int countPairs3(int *arr, int len, int value) {
   int generalCount = 0;
